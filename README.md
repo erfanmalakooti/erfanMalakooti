@@ -3,7 +3,7 @@
 [![Website](https://www.fiverr.com/erfanerma)](Fiverr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/erma_efan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/erma_efan)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student,Developer and seller programmer !!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣

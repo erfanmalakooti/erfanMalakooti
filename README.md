@@ -39,5 +39,5 @@
 [website]: https://www.fiverr.com/erfanerma
 [twitter]: https://twitter.com/erma_efan
 [instagram]: https://instagram.com/erfan.erma
-[linkedin]: https://linkedin.com/in/erfanmalakooti
+[linkedin]: https://www.linkedin.com/in/erfan-malakooti/
 
